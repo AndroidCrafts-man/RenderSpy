@@ -156,7 +156,7 @@ Then you can call viewTtiTracker.onScreenIsUsable(..) in Fragments the same way 
 
 
 ### Github : 
-https://github.com/LogicFalcon/RenderSpy
+https://github.com/LogicFalcon
 
 ### Gmail :
 saeedkhattak1.outlook.com
