@@ -155,5 +155,10 @@ class MyMainActivity : Activity() {
 Then you can call viewTtiTracker.onScreenIsUsable(..) in Fragments the same way as described above.
 
 
-## Acknowledgements
-<img src="https://github.com/user-attachments/assets/a2d52d25-4607-42d0-86a1-7976d5b94bf0" alt="WhatsApp Image" width="300"/>
+### Github : 
+https://github.com/LogicFalcon/RenderSpy
+
+### Gmail :
+saeedkhattak1.outlook.com
+
+
